@@ -1,0 +1,4 @@
+TARGETNAME=ZwContinueInject
+TARGETPATH=.
+TARGETTYPE=DRIVER
+SOURCES=Driver.c HookSysenter.c
